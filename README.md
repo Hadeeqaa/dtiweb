@@ -2,8 +2,7 @@
 a publi api that lets user retrieve images of items from game Dress to impress based on certain parameters.
 
 ## Features
-- no internal game login
-- secure and user friendly end points
+- no authentication 
 
 ## Usage
 ```
